@@ -47,3 +47,4 @@ for _ in range(4):
     turtle.left(90)      
 turtle.end_fill()
 
+turtle.exitonclick()
